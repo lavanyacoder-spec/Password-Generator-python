@@ -9,4 +9,10 @@ A simple command-line tool to generate secure random passwords.
 
 ## How to Run
 ```bash
-python main.py
+Example Run
+Input:
+Enter your name: Lavanya
+Enter birth year: 2003
+
+Output:
+Your Passport Number: LV0320038472
